@@ -1,5 +1,5 @@
 # TALK GEM
-# LIVE DEMO :
+# LIVE DEMO : https://talkgem.netlify.app/
 TALK-GEM is a React-based project designed to replicate the functionality of the Google Gemini AI chatbot, leveraging the Google Gemini API for enhanced conversational interactions.
 # INTRODUCTION
 TALK-GEM is a web application built using React that emulates the Google Gemini AI chatbot. The application offers a user-friendly interface to interact with the Gemini model, enabling users to ask questions and receive informative, conversational responses.
